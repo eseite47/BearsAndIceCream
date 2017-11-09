@@ -7,3 +7,7 @@ function iceCreamIsBetterThanBears(flavor) {
 
 //My name is Jasmine
 //doesaccept appear
+
+function blah(){
+    return athing;
+}
