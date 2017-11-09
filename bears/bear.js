@@ -3,11 +3,14 @@
 
 function iceCreamIsBetterThanBears(flavor) {
     console.log("mwahahaha");
-<<<<<<< HEAD
     console.log("fedgfgxbiuerbhfoixrhi");
 }
-=======
-}
-console.log("yaayyyyyyy")
+
 console.log('you didn\'t push ittttt')
->>>>>>> e290bc218c13c5f5675cc17a07a6df98b87f1525
+
+//what is this?
+//I think we should work better with Git
+
+function whatTimeIsIt() {
+    //I will work this later
+}
