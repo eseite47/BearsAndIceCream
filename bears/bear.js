@@ -4,3 +4,10 @@
 function iceCreamIsBetterThanBears(flavor) {
     console.log("mwahahaha");
 }
+
+//My name is Jasmine
+//doesaccept appear
+
+function blah(){
+    return athing;
+}
